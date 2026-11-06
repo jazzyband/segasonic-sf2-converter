@@ -1,0 +1,25 @@
+# User-extracted game assets; never commit
+sound.zip
+sonic.zip
+*.sf2
+*.mid
+*.wav
+assets/
+rom/
+Output/
+Final_Output/
+Full_Output/
+
+# Compiler, IDE and build outputs
+build/
+**/bin/
+**/obj/
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.pdb
+*.dll
+*.so
+*.dylib
